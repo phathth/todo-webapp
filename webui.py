@@ -30,8 +30,8 @@ def main():
     # tao Input box - "label" la tieu de; "placeholder" la goi y (hint)
     # on_change=<callback_func> - function se duoc chay khi co thay doi tren Input box (ex: nhan Enter, click chuot ra khoi input box -> toan bo script .py cung se duoc chay cho den het phan con lai va sau do script .py tu dong duoc chay lai tiep)
 
-    print("hello")  # de kiem tra script .py co bi goi chay het -> xuat "hello" ra man hinh Python khi script duoc chay het
-    stl.session_state   # hien thi cac input data dang duoc luu tru trong session_state len man hinh Web app tren browser ({"new_todo":"Play tennis"})
+    # print("hello")  # de kiem tra script .py co bi goi chay het -> xuat "hello" ra man hinh Python khi script duoc chay het
+    # stl.session_state   # hien thi cac input data dang duoc luu tru trong session_state len man hinh Web app tren browser ({"new_todo":"Play tennis"})
     # se hien thi truc tuyen data duoc thay doi khi user input trong Web app tren browser
     # giong nhu print(event, values) -> duoc dung de thay duoc gia tri tra ve tu cac elements tren Web app -> dung cac gia tri nay de code
 
